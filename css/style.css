@@ -1,0 +1,33 @@
+.fondo{
+  /* background: #EB5757;  
+background: -webkit-linear-gradient(to right, #000000, #EB5757); 
+background: linear-gradient(to right, #000000, #EB5757); */
+background: #0B486B; 
+background: -webkit-linear-gradient(to right, #F56217, #0B486B); 
+background: linear-gradient(to right, #F56217, #0B486B); 
+
+}
+
+.restaurant{
+  background: url('../fotos/restaurant.jpg');
+  
+}
+
+h5{
+  color: rgba(168, 164, 164, 0.938);
+}
+i{
+  color: rgba(220, 20, 60, 0.575);
+}
+
+.alto{
+  /* width: 500px; */
+  height: 530px;
+}
+
+.boton{
+  background: #9CECFB;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0052D4, #65C7F7, #9CECFB);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0052D4, #65C7F7, #9CECFB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
